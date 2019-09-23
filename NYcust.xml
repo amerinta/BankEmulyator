@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Customers>
+  <customer UUID="c8cf572a-7c33-4714-bd3b-bdd94770e461" Name="Foeo" Balance="100.0" />
+  <customer UUID="8ddae58b-31f7-47aa-9188-36175b09612f" Name="Foo" Balance="100.0" />
+  <customer UUID="64fdc5e7-65ef-4707-8edf-44b51620cbd8" Name="Goo" Balance="1005.0" />
+</Customers>
